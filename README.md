@@ -3,13 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Junior....;Nice+to+meet+you!&center=true&size=30">
   </a>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/bohanhu118/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/bohanhu118" title="Github Profile"><img width="22" src="images/github.svg"> Github Profile</a></code>
-  <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5> -->
-
 ## About Me  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 - 💻 Software and Machine Learning dev with bold ideas
 - 🌐 u can access all my open-source projects here.
