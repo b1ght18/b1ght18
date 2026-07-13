@@ -9,7 +9,7 @@
 - 🎓 BEng. Computer Science and Electronic Enginering from *@Xi'an Jiaotong-Liverpool University*.
 - 🌱 I'm currently learning many things, and I believe that everyday is a learning opportunity.
 
-## What I'm Up To
+## What I'm Up To:
 - 💭 I'm currently...
 ```yaml
 - Working on Audio and Speech!
