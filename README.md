@@ -6,7 +6,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/bohanhu118/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/b1ght18" title="Github Profile"><img width="22" src="images/github.svg"> Github Profile</a></code>
-  <code><a href="https://scholar.google.com/citations?user=PrD_RtoAAAAJ&hl=zh-CN" title="Google Scholar"><img width="22" src="images/github.svg"> Google Scholar</a></code>
+  <code><a href="https://scholar.google.com/citations?user=PrD_RtoAAAAJ&hl=zh-CN" title="Google Scholar"><img width="22" src="images/chrome.svg"> Google Scholar</a></code>
   <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5> -->
